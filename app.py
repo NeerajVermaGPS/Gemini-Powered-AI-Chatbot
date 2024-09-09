@@ -1,3 +1,5 @@
+# Application Name: Gemini Powered AI Chatbot
+# Author: Neeraj Verma
 
 import tkinter as tk
 from tkinter import LEFT, ttk
